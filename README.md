@@ -18,8 +18,8 @@ Week 4: 專題演講
 
 Week 5: Python簡介
 
-* 老師自介及觀念溝通
-* 電腦基本操作
+* [老師自介及觀念溝通](https://docs.google.com/presentation/d/1yiHpywvv7jQJR6FBgPzDf4WM_KyKIC4TzekVxVawQgk/edit?usp=sharing)
+* [電腦基本操作](https://docs.google.com/presentation/d/1H_KG0rW5JiAnfb6pxEKJGDs2vERoHuS9v67nN2P8-lQ/edit?usp=sharing)
 * 課程相關檔案下載及使用
 
 Week 6:
