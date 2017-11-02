@@ -24,6 +24,7 @@ Week 5: Python簡介
 
 Week 6:
 
+* [git 概念](https://docs.google.com/presentation/d/1nygsgO0m3AklTn-1_7V41iW_-xWjJoFR_r1g0CnzoKo/edit?usp=sharing)
 * [土炮股票分析系統](https://www.youtube.com/watch?v=zBtLOMBcH6E)
 
 學習資源：
