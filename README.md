@@ -31,6 +31,12 @@ Week 7:
 * [07. Python 的流程控制](https://goo.gl/qn8chd)
 * [HW02 - Due: 2017/11/09 6:00pm](https://github.com/victorgau/QF20170921/tree/master/01_basics/HW02)
 
+Week 8:
+
+* [08. Python 的函式](https://goo.gl/emMFPT)
+* [講解摩斯電碼範例](https://github.com/victorgau/QF20170921/tree/master/morse_code_demo)
+* [HW03 - Due: 2017/11/23 6:00pm](https://github.com/victorgau/QF20170921/tree/master/01_basics/HW03)
+
 學習資源：
 
 * git
