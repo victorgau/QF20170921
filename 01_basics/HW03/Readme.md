@@ -11,6 +11,7 @@
 
 * [用 Python 建立你自己的 Summly (PyCon APAC 2014)](https://www.youtube.com/watch?v=1eBOhyWkHgE)
 
-這個作業分成兩個部分，第一個部分請把[這一連結](https://github.com/victorgau/jieba_demo/blob/master/Jieba_applications.ipynb)的程式，改成 Python 3.x 可以執行的程式，並產生中文摘要。
+這個作業分成兩個部分：
 
-第二部分 (Bonus) 請實作自己的演算法，並跟第一部分的結果比較看看，哪一個比較好？為什麼比較好(壞)？
+* 第一個部分請把[這一連結](https://github.com/victorgau/jieba_demo/blob/master/Jieba_applications.ipynb)的程式，改成 Python 3.x 可以執行的程式，並產生中文摘要。
+* 第二部分 (Bonus) 請實作自己的演算法，並跟第一部分的結果比較看看，哪一個比較好？為什麼比較好(壞)？
