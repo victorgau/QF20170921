@@ -22,20 +22,20 @@ Week 6:
 * [土炮股票分析系統](https://www.youtube.com/watch?v=zBtLOMBcH6E)
 * [Python 的模組與套件](https://github.com/victorgau/QF20170921/tree/master/module_demo)
 * [03. Python 的變數](https://goo.gl/9g3Hme)
-* [HW01 - Due: 2017/11/09 6:00pm](https://github.com/victorgau/QF20170921/tree/master/01_basics/HW01)
+* [HW01 - Due: 2017/11/09 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW01)
 
 Week 7:
 
 * [04. Python 的資料型態](https://goo.gl/UbjntQ)
 * [05. Python 的容器型別](https://goo.gl/rytdCn)
 * [07. Python 的流程控制](https://goo.gl/qn8chd)
-* [HW02 - Due: 2017/11/09 6:00pm](https://github.com/victorgau/QF20170921/tree/master/01_basics/HW02)
+* [HW02 - Due: 2017/11/09 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW02)
 
 Week 8:
 
 * [08. Python 的函式](https://goo.gl/emMFPT)
 * [講解摩斯電碼範例](https://github.com/victorgau/QF20170921/tree/master/morse_code_demo)
-* [HW03 - Due: 2017/11/23 6:00pm](https://github.com/victorgau/QF20170921/tree/master/01_basics/HW03)
+* [HW03 - Due: 2017/11/23 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW03)
 
 學習資源：
 
