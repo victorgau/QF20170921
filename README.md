@@ -45,7 +45,7 @@ Week 9:
 * *10. Python 的檔案 IO*
 * *11. Python 的網路資料存取*
 * 討論分組 (下禮拜前分好組)
-* HW04 - Due: 2017/11/30 6:00pm
+* [HW04 - Due: 2017/11/30 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW04)
 
 (後面幾週預計要上的內容如下！講不完的部分，會錄成影片放上 YouTube！)
 
