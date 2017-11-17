@@ -37,6 +37,15 @@ Week 8:
 * [講解摩斯電碼範例](https://github.com/victorgau/QF20170921/tree/master/morse_code_demo)
 * [HW03 - Due: 2017/11/23 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW03)
 
+Week 9:
+
+* 說明怎麼把 flask app 佈署到 Heroku 上面去？
+* [09. Python 的生成式 (Comprehension)](https://goo.gl/NKQyFE)
+* 10. Python 的檔案 IO
+* 11. Python 的網路資料存取
+* 討論分組 (下禮拜前分好組別)
+* HW03 - Due: 2017/11/30 6:00pm
+
 學習資源：
 
 * git
