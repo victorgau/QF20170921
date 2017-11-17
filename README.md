@@ -60,3 +60,6 @@ Week 9:
   * [flask quickstart](http://flask.pocoo.org/docs/0.12/quickstart/)
   * [heroku 佈署教學](https://github.com/twtrubiks/Deploying-Flask-To-Heroku)
   * [pythonanywhere 佈署教學](https://www.youtube.com/watch?v=M4sxSoRZLtI)
+
+* markdown
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
