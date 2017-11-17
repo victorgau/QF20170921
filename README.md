@@ -40,6 +40,7 @@ Week 8:
 Week 9:
 
 * 說明怎麼把 flask app 佈署到 Heroku 上面去！
+* 說明 Web 的運作、-Http Methods-、-Http Status Codes-
 * [09. Python 的生成式 (Comprehension)](https://goo.gl/NKQyFE)
 * *10. Python 的檔案 IO*
 * *11. Python 的網路資料存取*
