@@ -39,12 +39,12 @@ Week 8:
 
 Week 9:
 
-* 說明怎麼把 flask app 佈署到 Heroku 上面去？
+* 說明怎麼把 flask app 佈署到 Heroku 上面去！
 * [09. Python 的生成式 (Comprehension)](https://goo.gl/NKQyFE)
-* 10. Python 的檔案 IO
-* 11. Python 的網路資料存取
-* 討論分組 (下禮拜前分好組別)
-* HW03 - Due: 2017/11/30 6:00pm
+* *10. Python 的檔案 IO*
+* *11. Python 的網路資料存取*
+* 討論分組 (下禮拜前分好組)
+* HW04 - Due: 2017/11/30 6:00pm
 
 學習資源：
 
