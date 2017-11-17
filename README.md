@@ -53,6 +53,7 @@ Week 9:
   * [15 分鐘 git 快速上手 - Try Git](https://try.github.io)
   * [GitHub 教學](https://www.youtube.com/watch?v=py3n6gF5Y00)
   * [30天精通Git版本控管](https://ithelp.ithome.com.tw/users/20004901/ironman/525)
+  * [猴子都懂的 Git 入門指南](https://backlog.com/git-tutorial/tw/)
 
 * flask
 
