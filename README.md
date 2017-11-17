@@ -47,6 +47,56 @@ Week 9:
 * 討論分組 (下禮拜前分好組)
 * HW04 - Due: 2017/11/30 6:00pm
 
+(後面幾週預計要上的內容如下！講不完的部分，會錄成影片放上 YouTube！)
+
+Week 10:
+
+* Numpy, Matplotlib, Pandas
+* 資料擷取及爬蟲
+* 以 OpenData 的東西來作範例！
+* 介紹 NoSQL 資料庫
+* 說明如何使用 MQTT 讀股價
+* 策略及回測
+* HW05 - Due: 2017/12/07 6:00pm
+
+Week 11:
+
+* 策略及回測 (續)
+* *12. Python 的例外處理*
+* *13. Python 的物件導向程式設計*
+* Midterm (Take-Home)
+
+Week 12:
+
+* 討論 Project 可以做的題目！
+* MileStone01: 同學們決定 Project 題目，在網路上建一個 Project 的 repo，用 Readme 說明 Project 要做什麼，並把組員加成 collaborators。
+
+Week 13:
+
+* Quantopian & Zipline 簡介
+
+Week 14:
+
+* MultiCharts & E-Leader 簡介
+
+Week 15:
+
+* 量化策略實作
+* HW
+
+Week 16:
+
+* 回測模組實作
+* HW
+
+Week 17:
+
+* Team Project 報告 (一)
+
+Week 18:
+
+* Team Project 報告 (二)
+
 學習資源：
 
 * git
