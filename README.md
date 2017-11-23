@@ -47,15 +47,14 @@ Week 9:
 * 討論分組 (下禮拜前分好組)
 * [HW04 - Due: 2017/11/30 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW04)
 
-(後面幾週預計要上的內容如下！講不完的部分，會錄成影片放上 YouTube！)
+(後面幾週預計要上的內容概略如下！講不完的部分，會錄成影片放上 YouTube！)
 
 Week 10:
 
 * Numpy, Matplotlib, Pandas
-* 資料擷取及爬蟲
-* 以 OpenData 的東西來作範例！
+* 資料擷取及爬蟲，以 OpenData 來作範例！
 * 介紹 NoSQL 資料庫
-* 說明如何使用 MQTT 讀股價
+* [如何使用 MQTT 讀取即時股價](https://www.youtube.com/watch?v=TvppQakKm20&list=PLj4JWjo5dOC4ModtacLGuIhnRRbJurhpC&index=13)
 * 策略及回測
 * HW05 - Due: 2017/12/07 6:00pm
 
@@ -113,4 +112,9 @@ Week 18:
   * [pythonanywhere 佈署教學](https://www.youtube.com/watch?v=M4sxSoRZLtI)
 
 * markdown
+
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+* 編輯器
+
+  * [Visual Studio Code 教學](https://www.youtube.com/playlist?list=PL4eoLKmwShjvh9B8zLkGxTos_OUoZhkNv)
