@@ -26,4 +26,4 @@ def main():
 上面的 `# 這是 main() 的註解` 只是舉例，請看懂底下的說明後，填上自己的註解。
 
 
-![](../../images/Python_Syntax.png)
+![](../01_basics/images/Python_Syntax.png)
