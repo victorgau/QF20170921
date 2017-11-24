@@ -47,20 +47,19 @@ Week 9:
 * 討論分組 (下禮拜前分好組)
 * [HW04 - Due: 2017/11/30 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW04)
 
-(後面幾週預計要上的內容概略如下！講不完的部分，會錄成影片放上 YouTube！)
-
 Week 10:
 
 * Numpy, Matplotlib, Pandas
-* 資料擷取及爬蟲，以 OpenData 來作範例！
-* 介紹 NoSQL 資料庫
+* 如何抓取 google finance 上面的歷史股價
+* 介紹 NoSQL 資料庫 (另外錄製影片說明)
 * [如何使用 MQTT 讀取即時股價](https://www.youtube.com/watch?v=TvppQakKm20&list=PLj4JWjo5dOC4ModtacLGuIhnRRbJurhpC&index=13)
-* 策略及回測
-* HW05 - Due: 2017/12/07 6:00pm
+* [HW05 - Due: 2017/12/07 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW05)
+
+(後面幾週預計要上的內容概略如下！講不完的部分，會錄成影片放上 YouTube！)
 
 Week 11:
 
-* 策略及回測 (續)
+* 策略及回測
 * *12. Python 的例外處理*
 * *13. Python 的物件導向程式設計*
 * Midterm (Take-Home)
