@@ -49,7 +49,7 @@ Week 9:
 
 Week 10:
 
-* Numpy, Matplotlib, Pandas
+* [Numpy, Matplotlib, Pandas](https://github.com/victorgau/QF20170921/tree/master/02_numpy_matplotlib_pandas)
 * 如何抓取 google finance 上面的歷史股價
 * 介紹 NoSQL 資料庫 (另外錄製影片說明)
 * [如何使用 MQTT 讀取即時股價](https://www.youtube.com/watch?v=TvppQakKm20&list=PLj4JWjo5dOC4ModtacLGuIhnRRbJurhpC&index=13)
