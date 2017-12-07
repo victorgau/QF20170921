@@ -55,23 +55,23 @@ Week 10:
 * [如何使用 MQTT 讀取即時股價](https://www.youtube.com/watch?v=TvppQakKm20&list=PLj4JWjo5dOC4ModtacLGuIhnRRbJurhpC&index=13)
 * [HW05 - Due: 2017/12/07 6:00pm](https://github.com/victorgau/QF20170921/tree/master/HW05)
 
-(後面幾週預計要上的內容概略如下！講不完的部分，會錄成影片放上 YouTube！)
-
 Week 11:
 
 * 策略及回測
-* *12. Python 的例外處理*
-* *13. Python 的物件導向程式設計*
-* Midterm (Take-Home)
+* 12. Python 的例外處理
+* 13. Python 的物件導向程式設計 (影片容後補上)
 
 Week 12:
 
+* 複習一下基礎課程。
 * 討論 Project 可以做的題目！
-* MileStone01: 同學們決定 Project 題目，在網路上建一個 Project 的 repo，用 Readme 說明 Project 要做什麼，並把組員加成 collaborators。
+* [Midterm - Due: 2017/12/14 6:00pm](https://github.com/victorgau/QF20170921/tree/master/midterm)
 
 Week 13:
 
 * Quantopian & Zipline 簡介
+* 決定 Project 題目 - Due: 2017/12/21
+  - 在網路上建一個 Project 的 repo，用 Readme 說明 Project 要做什麼，並把組員加成 collaborators。
 
 Week 14:
 
