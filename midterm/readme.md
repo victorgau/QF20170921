@@ -21,6 +21,7 @@ Midterm 總共有五題：
   - 股價可以使用預先下載的股價資料，或自己用 pandas datareader 自不同的資料源下載。
   - 這題不像是 HW05 Q2 只要各位畫價量曲線，我希望各位在價量圖上加上不同的曲線，或者是把 RSI 之類的曲線畫在價量圖下的 subplot。
   - 關於可用的技術指標，可以參考 [talib](https://github.com/mrjbq7/ta-lib)，或[參考這個連結](https://www.quantopian.com/posts/technical-analysis-indicators-without-talib-code)，但是有可能要自己解一些小 bug。
+  - 讓我再把問題更簡化一點，不知道要畫什麼的，請直接畫 Bollinger Bands 就好了，Bollinger Bands 怎麼計算，可以參考 BBands_strategy() 裡面的算法，也可以自己用 pandas 去算。願意挑戰自己的，還請自由嘗試。
   - [Q4影片提示](https://youtu.be/r4-aCGiMDdI)
 * Q5. 策略回測。
   - 寫出自己的交易策略，並回測看看結果怎樣。
