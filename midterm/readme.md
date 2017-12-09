@@ -20,7 +20,7 @@ Midterm 總共有五題：
   - 選擇一種上課沒有提到過的技術曲線，使用 python 將它畫出來。
   - 股價可以使用預先下載的股價資料，或自己用 pandas datareader 自不同的資料源下載。
   - 這題不像是 HW05 Q2 只要各位畫價量曲線，我希望各位在價量圖上加上不同的曲線，或者是把 RSI 之類的曲線畫在價量圖下的 subplot。
-  - 關於可用的技術指標，可以參考 [talib](https://github.com/mrjbq7/ta-lib)，或[參考這個連結](https://www.quantopian.com/posts/technical-analysis-indicators-without-talib-code)，但是有可能要自己些一些小 bug。
+  - 關於可用的技術指標，可以參考 [talib](https://github.com/mrjbq7/ta-lib)，或[參考這個連結](https://www.quantopian.com/posts/technical-analysis-indicators-without-talib-code)，但是有可能要自己解一些小 bug。
   - [Q4影片提示](https://youtu.be/r4-aCGiMDdI)
 * Q5. 策略回測。
   - 寫出自己的交易策略，並回測看看結果怎樣。
