@@ -69,31 +69,30 @@ Week 12:
 
 Week 13:
 
-* Quantopian & Zipline 簡介
-* 決定 Project 題目 - Due: 2017/12/21
+* [Quantopian 簡介](https://hackmd.io/s/Sy8eJRyMz)
+* 決定 Project 題目 - Due: 2017/12/23
   - 在網路上建一個 Project 的 repo，用 Readme 說明 Project 要做什麼，並把組員加成 collaborators。
 
 Week 14:
 
-* MultiCharts & E-Leader 簡介
+* [Zipline 簡介](https://hackmd.io/s/Sy8eJRyMz)
 
 Week 15:
 
 * 量化策略實作
-* HW
 
 Week 16:
 
-* 回測模組實作
-* HW
+* [AbuQuant 簡介](https://hackmd.io/s/B11R7eFmz)
+* [阿布量化交易系統 GitHub](https://github.com/bbfamily/abu)
 
 Week 17:
 
-* Team Project 報告 (一)
+* [期末報告](https://github.com/victorgau/2017FM617Project02)
 
 Week 18:
 
-* Team Project 報告 (二)
+* 期末報告總評
 
 學習資源：
 
